@@ -1,0 +1,300 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<!DOCTYPE cartelera SYSTEM "cartelera.dtd">
+<cartelera 
+xmlns:x="https://cinemex.com/cartelera/zona-56/puebla/"
+xmlns:c="http://www.cinepolis.com/cartelera/puebla/cinepolis-angelopolis">
+
+<c:cine fecha="17 enero 2017" cadena="Cinepolis" complejo="Angelópolis">
+	<c:pelicula>
+		<c:titulo>Aliados</c:titulo>
+		<c:idioma>Inglés</c:idioma>
+		<c:duracion>124 min</c:duracion>
+		<c:horarios>13:50, 14:55, 16:30, 17:35, 19:10, 20:15, 21:50, 22:55</c:horarios>
+		<c:clasificacion>B15</c:clasificacion>
+		<c:subtitulos>Si</c:subtitulos>
+		<c:formato>Regular</c:formato>
+	</c:pelicula>
+	<c:pelicula>
+		<c:titulo>Anestesia</c:titulo>
+		<c:idioma>Inglés</c:idioma>
+		<c:duracion>90 min</c:duracion>
+		<c:horarios>14:40, 19:05, 21:15</c:horarios>
+		<c:clasificacion>B15</c:clasificacion>
+		<c:subtitulos>Si</c:subtitulos>
+		<c:formato>Regular</c:formato>
+	</c:pelicula>
+	<c:pelicula>
+		<c:titulo>Assassin`s Creed</c:titulo>
+		<c:idioma>Inglés/Español</c:idioma>
+		<c:duracion>116 min</c:duracion>
+		<c:horarios>12:30, 15:05, 17:40, 20:15, 22:50</c:horarios>
+		<c:clasificacion>B</c:clasificacion>
+		<c:subtitulos>Si</c:subtitulos>
+		<c:formato>4DX, IMAX, 3D</c:formato>
+	</c:pelicula>
+	<c:pelicula>
+		<c:titulo>Bailarina</c:titulo>
+		<c:idioma>Español</c:idioma>
+		<c:duracion>90 min</c:duracion>
+		<c:horarios>12:45, 13:45, 15:55</c:horarios>
+		<c:clasificacion>A</c:clasificacion>
+		<c:subtitulos>No</c:subtitulos>
+		<c:formato>Regular</c:formato>
+	</c:pelicula>
+	<c:pelicula>
+		<c:titulo>Belleza Inesperada</c:titulo>
+		<c:idioma>Inglés</c:idioma>
+		<c:duracion>111 min</c:duracion>
+		<c:horarios>14:50, 20:10</c:horarios>
+		<c:clasificacion>B</c:clasificacion>
+		<c:subtitulos>Si</c:subtitulos>
+		<c:formato>Regular</c:formato>
+	</c:pelicula>
+	<c:pelicula>
+		<c:titulo>Hasta el último hombre</c:titulo>
+		<c:idioma>Inglés</c:idioma>
+		<c:duracion>139 min</c:duracion>
+		<c:horarios>16:45, 22:05</c:horarios>
+		<c:clasificacion>B15</c:clasificacion>
+		<c:subtitulos>Si</c:subtitulos>
+		<c:formato>Regular</c:formato>
+	</c:pelicula>
+	<c:pelicula>
+		<c:titulo>La reencarnación</c:titulo>
+		<c:idioma>Inglés</c:idioma>
+		<c:duracion>87 min</c:duracion>
+		<c:horarios>18:05, 22:35</c:horarios>
+		<c:clasificacion>B</c:clasificacion>
+		<c:subtitulos>Si</c:subtitulos>
+		<c:formato>Regular</c:formato>
+	</c:pelicula>
+	<c:pelicula>
+		<c:titulo>Monster Trucks</c:titulo>
+		<c:idioma>Español</c:idioma>
+		<c:duracion>105 min</c:duracion>
+		<c:horarios>12:30, 13:45, 16:10, 18:35, 21:00</c:horarios>
+		<c:clasificacion>A</c:clasificacion>
+		<c:subtitulos>No</c:subtitulos>
+		<c:formato>Regular</c:formato>
+	</c:pelicula>
+	<c:pelicula>
+		<c:titulo>Pasajeros</c:titulo>
+		<c:idioma>Inglés</c:idioma>
+		<c:duracion>116 min</c:duracion>
+		<c:horarios>14:20, 16:55, 19:30, 22:05</c:horarios>
+		<c:clasificacion>B</c:clasificacion>
+		<c:subtitulos>Si</c:subtitulos>
+		<c:formato>Regular</c:formato>
+	</c:pelicula>
+	<c:pelicula>
+		<c:titulo>¿Por qué él?</c:titulo>
+		<c:idioma>Inglés</c:idioma>
+		<c:duracion>111 min</c:duracion>
+		<c:horarios>20:10</c:horarios>
+		<c:clasificacion>B15</c:clasificacion>
+		<c:subtitulos>Si</c:subtitulos>
+		<c:formato>Regular</c:formato>
+	</c:pelicula>
+	<c:pelicula>
+		<c:titulo>Pura Sangre</c:titulo>
+		<c:idioma>Español</c:idioma>
+		<c:duracion>104 min</c:duracion>
+		<c:horarios>13:30, 15:50, 18:10, 20:30, 22:50</c:horarios>
+		<c:clasificacion>B15</c:clasificacion>
+		<c:subtitulos>No</c:subtitulos>
+		<c:formato>Regular</c:formato>
+	</c:pelicula>
+	<c:pelicula>
+		<c:titulo>Rogue One: Una Historia de Star Wars</c:titulo>
+		<c:idioma>Español</c:idioma>
+		<c:duracion>134 min</c:duracion>
+		<c:horarios>17:20, 22:40</c:horarios>
+		<c:clasificacion>B</c:clasificacion>
+		<c:subtitulos>No</c:subtitulos>
+		<c:formato>Regular</c:formato>
+	</c:pelicula>
+	<c:pelicula>
+		<c:titulo>Sing! Ven y Canta</c:titulo>
+		<c:idioma>Español</c:idioma>
+		<c:duracion>108 min</c:duracion>
+		<c:horarios>13:10, 14:20, 15:35, 18:00, 19:40, 20:25</c:horarios>
+		<c:clasificacion>AA</c:clasificacion>
+		<c:subtitulos>No</c:subtitulos>
+		<c:formato>Regular</c:formato>
+	</c:pelicula>
+	<c:pelicula>
+		<c:titulo>Un padre no tan padre</c:titulo>
+		<c:idioma>Español</c:idioma>
+		<c:duracion>96 min</c:duracion>
+		<c:horarios>13:25, 15:40, 17:55, 20:10, 22:25</c:horarios>
+		<c:clasificacion>B15</c:clasificacion>
+		<c:subtitulos>No</c:subtitulos>
+		<c:formato>Regular</c:formato>
+	</c:pelicula>
+	<c:pelicula>
+		<c:titulo>Vivir de Noche</c:titulo>
+		<c:idioma>Inglés</c:idioma>
+		<c:duracion>129 min</c:duracion>
+		<c:horarios>14:25, 17:10, 19:55, 22:40</c:horarios>
+		<c:clasificacion>B15</c:clasificacion>
+		<c:subtitulos>Si</c:subtitulos>
+		<c:formato>Regular</c:formato>
+	</c:pelicula>
+	<c:pelicula>
+		<c:titulo>Zoom</c:titulo>
+		<c:idioma>Inglés</c:idioma>
+		<c:duracion>97 min</c:duracion>
+		<c:horarios>12:30, 16:50</c:horarios>
+		<c:clasificacion>B15</c:clasificacion>
+		<c:subtitulos>Si</c:subtitulos>
+		<c:formato>Regular</c:formato>
+	</c:pelicula>
+</c:cine>
+
+<x:cine fecha="17 enero 2017" cadena="Cinemex" complejo="San Francisco">
+	<x:pelicula>
+		<x:titulo>Aliados</x:titulo>
+		<x:idioma>Inglés</x:idioma>
+		<x:duracion>124 min</x:duracion>
+		<x:horarios>13:50, 14:55, 16:30, 17:35, 19:10, 20:15, 21:50, 22:55</x:horarios>
+		<x:clasificacion>B15</x:clasificacion>
+		<x:subtitulos>Si</x:subtitulos>
+		<x:formato>Regular</x:formato>
+	</x:pelicula>
+	<x:pelicula>
+		<x:titulo>Anestesia</x:titulo>
+		<x:idioma>Inglés</x:idioma>
+		<x:duracion>90 min</x:duracion>
+		<x:horarios>14:40, 19:05, 21:15</x:horarios>
+		<x:clasificacion>B15</x:clasificacion>
+		<x:subtitulos>Si</x:subtitulos>
+		<x:formato>Regular</x:formato>
+	</x:pelicula>
+	<x:pelicula>
+		<x:titulo>Assassin`s Creed</x:titulo>
+		<x:idioma>Inglés/Español</x:idioma>
+		<x:duracion>116 min</x:duracion>
+		<x:horarios>12:30, 15:05, 17:40, 20:15, 22:50</x:horarios>
+		<x:clasificacion>B</x:clasificacion>
+		<x:subtitulos>Si</x:subtitulos>
+		<x:formato>4DX, IMAX, 3D</x:formato>
+	</x:pelicula>
+	<x:pelicula>
+		<x:titulo>Bailarina</x:titulo>
+		<x:idioma>Español</x:idioma>
+		<x:duracion>90 min</x:duracion>
+		<x:horarios>12:45, 13:45, 15:55</x:horarios>
+		<x:clasificacion>A</x:clasificacion>
+		<x:subtitulos>No</x:subtitulos>
+		<x:formato>Regular</x:formato>
+	</x:pelicula>
+	<x:pelicula>
+		<x:titulo>Belleza Inesperada</x:titulo>
+		<x:idioma>Inglés</x:idioma>
+		<x:duracion>111 min</x:duracion>
+		<x:horarios>14:50, 20:10</x:horarios>
+		<x:clasificacion>B</x:clasificacion>
+		<x:subtitulos>Si</x:subtitulos>
+		<x:formato>Regular</x:formato>
+	</x:pelicula>
+	<x:pelicula>
+		<x:titulo>Hasta el último hombre</x:titulo>
+		<x:idioma>Inglés</x:idioma>
+		<x:duracion>139 min</x:duracion>
+		<x:horarios>16:45, 22:05</x:horarios>
+		<x:clasificacion>B15</x:clasificacion>
+		<x:subtitulos>Si</x:subtitulos>
+		<x:formato>Regular</x:formato>
+	</x:pelicula>
+	<x:pelicula>
+		<x:titulo>La reencarnación</x:titulo>
+		<x:idioma>Inglés</x:idioma>
+		<x:duracion>87 min</x:duracion>
+		<x:horarios>18:05, 22:35</x:horarios>
+		<x:clasificacion>B</x:clasificacion>
+		<x:subtitulos>Si</x:subtitulos>
+		<x:formato>Regular</x:formato>
+	</x:pelicula>
+	<x:pelicula>
+		<x:titulo>Monster Trucks</x:titulo>
+		<x:idioma>Español</x:idioma>
+		<x:duracion>105 min</x:duracion>
+		<x:horarios>12:30, 13:45, 16:10, 18:35, 21:00</x:horarios>
+		<x:clasificacion>A</x:clasificacion>
+		<x:subtitulos>No</x:subtitulos>
+		<x:formato>Regular</x:formato>
+	</x:pelicula>
+	<x:pelicula>
+		<x:titulo>Pasajeros</x:titulo>
+		<x:idioma>Inglés</x:idioma>
+		<x:duracion>116 min</x:duracion>
+		<x:horarios>14:20, 16:55, 19:30, 22:05</x:horarios>
+		<x:clasificacion>B</x:clasificacion>
+		<x:subtitulos>Si</x:subtitulos>
+		<x:formato>Regular</x:formato>
+	</x:pelicula>
+	<x:pelicula>
+		<x:titulo>¿Por qué él?</x:titulo>
+		<x:idioma>Inglés</x:idioma>
+		<x:duracion>111 min</x:duracion>
+		<x:horarios>20:10</x:horarios>
+		<x:clasificacion>B15</x:clasificacion>
+		<x:subtitulos>Si</x:subtitulos>
+		<x:formato>Regular</x:formato>
+	</x:pelicula>
+	<x:pelicula>
+		<x:titulo>Pura Sangre</x:titulo>
+		<x:idioma>Español</x:idioma>
+		<x:duracion>104 min</x:duracion>
+		<x:horarios>13:30, 15:50, 18:10, 20:30, 22:50</x:horarios>
+		<x:clasificacion>B15</x:clasificacion>
+		<x:subtitulos>No</x:subtitulos>
+		<x:formato>Regular</x:formato>
+	</x:pelicula>
+	<x:pelicula>
+		<x:titulo>Rogue One: Una Historia de Star Wars</x:titulo>
+		<x:idioma>Español</x:idioma>
+		<x:duracion>134 min</x:duracion>
+		<x:horarios>17:20, 22:40</x:horarios>
+		<x:clasificacion>B</x:clasificacion>
+		<x:subtitulos>No</x:subtitulos>
+		<x:formato>Regular</x:formato>
+	</x:pelicula>
+	<x:pelicula>
+		<x:titulo>Sing! Ven y Canta</x:titulo>
+		<x:idioma>Español</x:idioma>
+		<x:duracion>108 min</x:duracion>
+		<x:horarios>13:10, 14:20, 15:35, 18:00, 19:40, 20:25</x:horarios>
+		<x:clasificacion>AA</x:clasificacion>
+		<x:subtitulos>No</x:subtitulos>
+		<x:formato>Regular</x:formato>
+	</x:pelicula>
+	<x:pelicula>
+		<x:titulo>Un padre no tan padre</x:titulo>
+		<x:idioma>Español</x:idioma>
+		<x:duracion>96 min</x:duracion>
+		<x:horarios>13:25, 15:40, 17:55, 20:10, 22:25</x:horarios>
+		<x:clasificacion>B15</x:clasificacion>
+		<x:subtitulos>No</x:subtitulos>
+		<x:formato>Regular</x:formato>
+	</x:pelicula>
+	<x:pelicula>
+		<x:titulo>Vivir de Noche</x:titulo>
+		<x:idioma>Inglés</x:idioma>
+		<x:duracion>129 min</x:duracion>
+		<x:horarios>14:25, 17:10, 19:55, 22:40</x:horarios>
+		<x:clasificacion>B15</x:clasificacion>
+		<x:subtitulos>Si</x:subtitulos>
+		<x:formato>Regular</x:formato>
+	</x:pelicula>
+	<x:pelicula>
+		<x:titulo>Zoom</x:titulo>
+		<x:idioma>Inglés</x:idioma>
+		<x:duracion>97 min</x:duracion>
+		<x:horarios>12:30, 16:50</x:horarios>
+		<x:clasificacion>B15</x:clasificacion>
+		<x:subtitulos>Si</x:subtitulos>
+		<x:formato>Regular</x:formato>
+	</x:pelicula>
+</x:cine>
+</cartelera>
